@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="dw_new_image_map" value="&lt;MAP name=&quot;m_home_r4_c2&quot;&gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;8,5,57,14&quot; HREF=&quot;#&quot; ALT=&quot;&quot; onMouseOut=&quot;MM_startTimeout();&quot;  onMouseOver=&quot;MM_showMenu(window.mm_menu_1118153736_0,108,5,null,'home_r4_c2');&quot;  &gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;9,135,47,144&quot; HREF=&quot;pedidos.htm&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot; &gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;9,115,61,126&quot; HREF=&quot;registro.htm&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot; &gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;8,65,70,74&quot; HREF=&quot;contacto.htm&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot; &gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;9,45,94,54&quot; HREF=&quot;clientes.htm&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot; &gt;&#xD;&lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;9,25,87,36&quot; HREF=&quot;listaprecios.htm&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot; &gt;&#xD;&lt;/MAP&gt;" />
+	<infoitem key="fw_source" value="/Fireworks/home.png" />
+	<infoitem key="fw_slice_info" value="0 320 258 7e 67 2a2 1f1 0" />
+</info>

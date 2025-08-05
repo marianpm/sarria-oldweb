@@ -1,0 +1,336 @@
+<script language="JavaScript">
+
+if (window.screen){
+	if (window.screen.width > 800){
+		//Antes de subir la página cambiar la deshabilitación
+		top.document.location.replace("http://www.frigorificosarria.com/contactob.php");
+		//top.document.location.replace("http://ricardo/sarria/contactob.php");
+	}
+}
+</script>
+
+<html>
+<head>
+<title>Frigor&iacute;fico Sarria - Contacto</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="FW MX DW MX HTML">
+<!-- Fireworks MX Dreamweaver MX target.  Created Thu Nov 23 16:57:33 GMT+0000 (Hora estándar de Greenwich) 2006-->
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+/* Functions that swaps images. */
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+/* Functions that handle preload. */
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function mmLoadMenus() {
+  if (window.mm_menu_1118153736_0) return;
+      window.mm_menu_1118153736_0_1_1 = new Menu("Jam&oacute;n&nbsp;crudo&nbsp;&nbsp;",217,16,"Arial, Helvetica, sans-serif",10,"#ffffff","#ffffff","#d15f6c","#d15f6c","center","middle",3,0,1000,0,0,true,true,true,0,true,true);
+      mm_menu_1118153736_0_1_1.addMenuItem("Sin&nbsp;hueso&nbsp;sin&nbsp;cuero&nbsp;y&nbsp;desgrasado","location='desgrasado.htm'");
+      mm_menu_1118153736_0_1_1.addMenuItem("Sin&nbsp;hueso&nbsp;sin&nbsp;cuero&nbsp;y&nbsp;desgrasado&nbsp;serrano","location='desgrasadoserrano.htm'");
+      mm_menu_1118153736_0_1_1.addMenuItem("Sin&nbsp;hueso","location='sinhueso.htm'");
+      mm_menu_1118153736_0_1_1.addMenuItem("Sin&nbsp;hueso&nbsp;serrano","location='sinhuesoserrano.htm'");
+      mm_menu_1118153736_0_1_1.addMenuItem("Con&nbsp;hueso","location='conhueso.htm'");
+      mm_menu_1118153736_0_1_1.addMenuItem("Con&nbsp;hueso&nbsp;serrano","location='conhuesoserrano.htm'");
+       mm_menu_1118153736_0_1_1.fontWeight="bold";
+       mm_menu_1118153736_0_1_1.hideOnMouseOut=true;
+       mm_menu_1118153736_0_1_1.menuBorder=0;
+       mm_menu_1118153736_0_1_1.menuLiteBgColor='#ffffff';
+       mm_menu_1118153736_0_1_1.menuBorderBgColor='#555555';
+       mm_menu_1118153736_0_1_1.bgColor='#555555';
+    window.mm_menu_1118153736_0_1 = new Menu("Salazones&nbsp;crudas&nbsp;&nbsp;",79,16,"Arial, Helvetica, sans-serif",10,"#ffffff","#ffffff","#d15f6c","#d15f6c","center","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1118153736_0_1.addMenuItem(mm_menu_1118153736_0_1_1);
+     mm_menu_1118153736_0_1.fontWeight="bold";
+     mm_menu_1118153736_0_1.hideOnMouseOut=true;
+     mm_menu_1118153736_0_1.childMenuIcon="Imagenes/QuienesSomos/arrows.gif";
+     mm_menu_1118153736_0_1.menuBorder=0;
+     mm_menu_1118153736_0_1.menuLiteBgColor='#ffffff';
+     mm_menu_1118153736_0_1.menuBorderBgColor='#555555';
+     mm_menu_1118153736_0_1.bgColor='#555555';
+      window.mm_menu_1118153736_0_2_1 = new Menu("Fiambre&nbsp;de&nbsp;cerdo&nbsp;&nbsp;",137,16,"Arial, Helvetica, sans-serif",10,"#ffffff","#ffffff","#d15f6c","#d15f6c","center","middle",3,0,1000,0,0,true,true,true,0,true,true);
+      mm_menu_1118153736_0_2_1.addMenuItem("Cocido&nbsp;borde&nbsp;azul&nbsp;(jam&oacute;n)","location='bordeazul.htm'");
+      mm_menu_1118153736_0_2_1.addMenuItem("Cocido&nbsp;borde&nbsp;rojo&nbsp;(paleta)","location='borderojo.htm'");
+       mm_menu_1118153736_0_2_1.fontWeight="bold";
+       mm_menu_1118153736_0_2_1.hideOnMouseOut=true;
+       mm_menu_1118153736_0_2_1.menuBorder=0;
+       mm_menu_1118153736_0_2_1.menuLiteBgColor='#ffffff';
+       mm_menu_1118153736_0_2_1.menuBorderBgColor='#555555';
+       mm_menu_1118153736_0_2_1.bgColor='#555555';
+    window.mm_menu_1118153736_0_2 = new Menu("Salazones&nbsp;cocidas&nbsp;&nbsp;",190,16,"Arial, Helvetica, sans-serif",10,"#ffffff","#ffffff","#d15f6c","#d15f6c","center","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1118153736_0_2.addMenuItem("Jam&oacute;n&nbsp;cocido","location='jamoncocido.htm'");
+    mm_menu_1118153736_0_2.addMenuItem(mm_menu_1118153736_0_2_1);
+    mm_menu_1118153736_0_2.addMenuItem("Fiambre&nbsp;de&nbsp;cerdo&nbsp;para&nbsp;emparedados","location='emparedados.htm'");
+     mm_menu_1118153736_0_2.fontWeight="bold";
+     mm_menu_1118153736_0_2.hideOnMouseOut=true;
+     mm_menu_1118153736_0_2.childMenuIcon="Imagenes/QuienesSomos/arrows.gif";
+     mm_menu_1118153736_0_2.menuBorder=0;
+     mm_menu_1118153736_0_2.menuLiteBgColor='#ffffff';
+     mm_menu_1118153736_0_2.menuBorderBgColor='#555555';
+     mm_menu_1118153736_0_2.bgColor='#555555';
+  window.mm_menu_1118153736_0 = new Menu("root",108,16,"Arial, Helvetica, sans-serif",10,"#ffffff","#ffffff","#d15f6c","#d15f6c","center","middle",3,0,1000,0,0,true,true,true,0,true,true);
+  mm_menu_1118153736_0.addMenuItem(mm_menu_1118153736_0_1);
+  mm_menu_1118153736_0.addMenuItem(mm_menu_1118153736_0_2);
+   mm_menu_1118153736_0.fontWeight="bold";
+   mm_menu_1118153736_0.hideOnMouseOut=true;
+   mm_menu_1118153736_0.childMenuIcon="Imagenes/QuienesSomos/arrows.gif";
+   mm_menu_1118153736_0.menuBorder=0;
+   mm_menu_1118153736_0.menuLiteBgColor='#ffffff';
+   mm_menu_1118153736_0.menuBorderBgColor='#555555';
+   mm_menu_1118153736_0.bgColor='#555555';
+
+  mm_menu_1118153736_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+//-->
+</script>
+<script language="JavaScript1.2" src="mm_menu.js"></script>
+</head>
+<body bgcolor="#f7e8d5" leftmargin="0" topmargin="0" onLoad="MM_preloadImages('Imagenes/QuienesSomos/quienessomos_r3_c1_f7.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1_f5.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1_f2.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1_f4.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1_f6.jpg','Imagenes/QuienesSomos/quienessomos_r3_c1_f3.jpg');">
+<!--The following section is an HTML table which reassembles the sliced image in a browser.-->
+<!--Copy the table section including the opening and closing table tags, and paste the data where-->
+<!--you want the reassembled image to appear in the destination document. -->
+<!--======================== BEGIN COPYING THE HTML HERE ==========================-->
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<table border="0" cellpadding="0" cellspacing="0" width="778">
+  <style type="text/css">
+<!--
+.unnamed1 {
+	border: 1px solid #996633;
+	color: #996633;
+}
+-->
+</style>
+
+<STYLE>BODY {
+	SCROLLBAR-FACE-COLOR: #f7e8d5; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #ffcc99; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #F1EFEB; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+}
+</STYLE>
+
+  <!-- fwtable fwsrc="quienessomos.png" fwbase="quienessomos.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr>
+<!-- Shim row, height 1. -->
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="106" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="89" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="32" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="163" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="194" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="194" height="1" border="0" alt=""></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr><!-- row 1 -->
+    <td valign="top" bgcolor="#DE8484">
+<p><a href="quienessomos.htm"><img alt="Logo" width="96" height="72" border="0" dynsrc="Imagenes/Logos/LogoRosado.avi" start="fileopen" loop="infinite"></a> 
+      </p></td>
+    <td colspan="2" valign="top" bgcolor="#DE8484">
+<p></p></td>
+    <td colspan="3" valign="top" bgcolor="#DE8484"> <p> <img src="Animaciones/BannerParaGif.gif" alt="Banner" width="551" height="74"></p></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="74" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 2 -->
+    <td colspan="2" valign="top" bgcolor="#D15F6C"> <p><a href="quienessomos.htm"><img src="Imagenes/Varios/QuienesSomos.jpg" width="195" height="25" border="0"></a></p></td>
+    <td colspan="2" valign="top" bgcolor="#D15F6C"> <p><a href="instalaciones.htm"><img src="Imagenes/Varios/NuestrasInstalacionesImagen.jpg" width="195" height="25" border="0"></a></p></td>
+    <td valign="top" bgcolor="#D15F6C"> <p><a href="comollegar.htm"><img src="Imagenes/Varios/ComoLlegar.jpg" width="194" height="25" border="0"></a></p></td>
+    <td valign="top" bgcolor="#D15F6C"> <p><a href="contacto.php"><img src="Imagenes/Varios/Contactenos.jpg" width="194" height="25" border="0"></a></p></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="25" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 3 -->
+    <td valign="top"><img name="quienessomos_r3_c1" src="Imagenes/QuienesSomos/quienessomos_r3_c1.jpg" width="106" height="270" border="0" usemap="#m_quienessomos_r3_c1" alt=""></td>
+    <td colspan="5" valign="top" bgcolor="#FFFFFF"> 
+      <div align="center"><br>
+        <strong><font color="#990000" size="3" face="Verdana, Arial, Helvetica, sans-serif"><u>Envi&eacute;nos 
+        su comentario, sugerencia o consulta</u></font></strong><u><font size="3" face="Verdana, Arial, Helvetica, sans-serif">. 
+        </font></u> </div>
+        <div align='center'><br>
+      </div>
+        
+      <form name="form1" method="post" action="contacto.php">
+        <?
+  		$direc = trim($mensaje);
+		$nomb = trim($nombre);
+		$mai = trim($mail);
+		$mailcorrecto= 0;
+		
+		if (strpos($mai, "@")!=0 and strpos($mai, "@")+1!=strlen($mai)){
+			$mailcorrecto= 1;
+		}else{
+			$mailcorrecto= 0;
+		}
+		
+		if (strpos($mai, " ")!=0 and strpos($mai, " ")+1!=strlen($mai)){
+			$mailcorrecto= 0;
+		}
+		
+		if ($direc!="" and $nomb!="" and $mai!="" and $mailcorrecto==1){
+				
+			$dire = "info@frigorificosarria.com";
+			
+			if($REQUEST_METHOD=="POST"){
+				mail($dire,"Contacto Sitio web Sarria", "Razón Social o Apellido y Nombre: " .  $nomb ."\n" . "E-mail: " . $mai . "\n\n" . $direc, "From:".$nomb."<".$mai.">");  //. "\" . $correo
+				echo "<br><div align='center'><font color='#993300'><b>Su mensaje fue enviado satisfactoriamente, a la brevedad le responderemos.</b></font></div></br>";
+		    }
+			//if ($mai!=""){ 
+			//	mail($mai,"Sarria","Estimado/a " . $nomb . ":" . "\n\nHemos recibido su mensaje, lo responderemos a la brevedad.\nLo/a saludamos cordilamente\nSarria","From:info@sarria.com.ar");
+			//} 
+			
+			?>
+        <div align="center"><br>
+        </div>
+        <div align='center'><br>
+          <img src="Imagenes/Logos/LogoTrasparente.GIF" width="161" height="129"></div>
+        <div align='center'></div>
+			
+        <?
+					
+		}else{
+			$Env = $Enviar;
+			
+			if($REQUEST_METHOD=="POST"){
+			//if ($Env!=""){
+				if (trim($direc)=="" or trim($nomb)=="" or trim($mai)==""){
+					echo "<div align='center'><font color='#993300' size='2'><b>Debe completar los tres campos.</b></font></div>";
+				}else{
+					if($mailcorrecto==0){
+						echo "<div align='center'><font color='#993300' size='2'><b>El mail no es correcto.</b></font></div>";	
+					}
+				}
+			}
+	?>
+        <div align="center"><font color="#990000" size="3"></font> </div>
+        <table width="54%" border="0" align="center">
+          <tr> 
+            <td height="24" nowrap><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Empresa 
+              o Apellido y Nombre:</font></strong></td>
+            <?
+			if($REQUEST_METHOD=="POST"){
+			//if($Enviar!=""){
+				if(trim($nombre)!=""){
+			?>
+					
+            <td><input name="nombre" type="text" id="nombre"  size="35" class="unnamed1" value="<? echo trim($nombre);?>"></td>
+			<?
+				}else{
+			?>
+					
+            <td><input name="nombre" type="text" id="nombre" size="35" class="unnamed1" ></td>
+			<?
+				}
+			}else{
+			?>
+				
+            <td><input name="nombre" type="text" id="nombre" size="35" class="unnamed1" ></td>
+			<?
+			}
+			?>
+          </tr>
+          <tr> 
+            <td><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mail:</font></strong></td>
+            
+			<?
+			if($REQUEST_METHOD=="POST"){
+			//if($Enviar!=""){
+				if(trim($mail)!=""){
+			?>
+					<td><input name="mail" type="text" id="mail" size="35" class="unnamed1" value=<? echo trim($mail);?> ></td>
+			<?
+				}else{
+			?>
+					<td><input name="mail" type="text" id="mail" size="35" class="unnamed1" ></td>
+			<?
+				}
+			}else{
+			?>
+					<td><input name="mail" type="text" id="mail" size="35" class="unnamed1"></td>
+			<?
+			}
+			?>
+			
+          </tr>
+          <tr> 
+            <td><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mensaje:</font></strong></td>
+            
+			<?
+			if($REQUEST_METHOD=="POST"){
+			//if($Enviar!=""){
+				if(trim($mensaje)!=""){
+			?>
+					<td><textarea name="mensaje" cols="40" rows="4" id="mensaje" class="unnamed1"><? echo trim($mensaje);?></textarea></td>
+          	<?
+				}else{
+			?>
+					<td><textarea name="mensaje" cols="40" rows="4" id="mensaje" class="unnamed1"></textarea></td>
+			<?
+				}
+			}else{
+			?>
+					<td><textarea name="mensaje" cols="40" rows="4" id="mensaje" class="unnamed1"></textarea></td>
+			<?
+			}	
+			?>
+		  </tr>
+          <tr> 
+            <td height="26" colspan="2">
+		<div align="center"> 
+                <input name="Enviar" type="submit" id="Enviar" class="unnamed1" value="Enviar">
+              </div></td>
+          </tr>
+		  
+    </table>
+		
+		<?
+		}
+		?>
+      </form>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="270" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 4 -->
+    <td rowspan="2" valign="top" bgcolor="#c0c7d0"> <p>
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="106" height="61" Alt="Webmaster">
+          <param name="movie" value="Animaciones/LogoSinFondo.swf">
+          <param name="quality" value="high">
+          <embed src="Animaciones/LogoSinFondo.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="106" height="61"></embed></object>
+      </p></td>
+    <td colspan="5" valign="top" bgcolor="#9aa5b3">
+<p></p></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="18" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 5 -->
+    <td colspan="5" valign="middle" bgcolor="#c0c7d0"> 
+      <p align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Todos 
+        los derechos reservados. <strong>Sarria</strong> y <strong>1319</strong> 
+        son marcas registradas ante el INPI. Reg. No. 1437494 y decreto 558/91, 
+        Disposiciones M-875/03 y M-826/01, Resoluci&oacute;n I-052/99. 2003/2013 
+        Y 2001/2011.<br>
+        </font> </p></td>
+   <td><img src="Imagenes/QuienesSomos/spacer.gif" width="1" height="43" border="0" alt=""></td>
+  </tr>
+<map name="m_quienessomos_r3_c1">
+<area shape="rect" coords="62,195,91,204" href="index.htm" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);"  onMouseOver="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f7.jpg',1);"  >
+<area shape="rect" coords="53,145,91,154" href="pedidos.php" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);"  onMouseOver="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f5.jpg',1);"  >
+<area shape="rect" coords="43,54,92,63" href="#" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);MM_startTimeout();"  onMouseOver="MM_showMenu(window.mm_menu_1118153736_0,109,54,null,'quienessomos_r3_c1');MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f2.jpg',1);"  >
+<area shape="rect" coords="39,125,91,136" href="registro.php" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);"  onMouseOver="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f4.jpg',1);"  >
+<area shape="rect" coords="5,165,90,174" href="clientes.htm" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);"  onMouseOver="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f6.jpg',1);"  >
+<area shape="rect" coords="12,74,90,85" href="listadeprecios.htm" alt="" onMouseOut="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1.jpg',1);"  onMouseOver="MM_swapImage('quienessomos_r3_c1','','Imagenes/QuienesSomos/quienessomos_r3_c1_f3.jpg',1);"  >
+</map>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+</body>
+</html>
